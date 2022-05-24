@@ -1,0 +1,81 @@
+* {
+    margin: 0
+}
+
+.imagem {
+    margin: 0 auto;
+    margin-top: 200px;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    background-color: black;
+    background-image: url(1.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 250px;
+    outline: 2px solid #BB99DD;
+    }
+
+body {
+    background-color: #FAF7FD;
+}
+
+#link1,
+#link2,
+#link3,
+#link4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #BB99DD;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.link-1,
+.link-2,
+.link-3,
+.link-4 {
+    width: 329px;
+    height: 49px;
+    margin: 0 auto;
+    margin-block: 15px;
+    box-sizing: border-box;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    text-align: center;
+    align-items: center;
+    padding: 11px;
+}
+
+
+#instagram {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-style: normal;
+    color: #BB99DD;
+}
+
+.inst {
+    text-align: center;
+    text-decoration: none;
+}
+
+.assets {
+    text-align: center;
+    margin: 30px;
+}
+
+#a1,
+#a2,
+#a3,
+#a4,
+#a5 {
+    margin: 12px;
+}
